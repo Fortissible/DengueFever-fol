@@ -1,7 +1,7 @@
 # DengueFever_FOL
 Tugas akhir mata kuliah AI, Penerapan FOL dalam mendiagnosa demam DBD menggunakan teknik inferensi forward chaining serta model decision tree
 <p align="center">
-  <img align="right" src="https://github.com/wildanfajri1alfarabi/DengueFever_FOL/blob/main/KB_DBD_FOL.JPG" width="480" title="BotaRun">
+  <img src="https://github.com/wildanfajri1alfarabi/DengueFever_FOL/blob/main/KB_DBD_FOL.JPG" width="480" title="BotaRun">
 </p>
 <p align="center">
   <img src="https://github.com/wildanfajri1alfarabi/DengueFever_FOL/blob/main/Decision%20Tree/Decision%20Tree%20DBD_FOL.png" width="360" title="BotaRun">
